@@ -60,6 +60,5 @@ ElementMasterWebsite/
 ## Team Contributions
 - Every member contributed at least one Page class and one Test class (as per guidelines).
 
-## Screenshots & Evidence
-Refer to the **Screenshots** folder / section below.
+
 
